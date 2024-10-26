@@ -13,4 +13,4 @@ EventSpot Lite is a single-page application where users can discover local event
 1. **Clone the Repository**:
    ```bash
    git clone  https://github.com/tishamatta/Tisha_Matta_EventSpotLite.git
-   cd FirstName_LastName_EventSpotLite
+   cd Tisha_Matta_EventSpotLite
